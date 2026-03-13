@@ -33,7 +33,7 @@ A modern, responsive portfolio website showcasing frontend projects, UI/UX desig
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/rhody08/Rhodmin-Lou-B.-Berioso/tree/main/portfolio
 cd portfolio
 ```
 
