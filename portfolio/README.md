@@ -15,13 +15,13 @@ A modern, responsive portfolio website showcasing frontend projects, UI/UX desig
 
 ## 📋 Sections
 
-1. **Navigation Bar** - Fixed navigation with smooth scrolling
-2. **Hero Section** - Eye-catching introduction with animated elements
-3. **About Me** - Personal introduction with statistics
-4. **Skills & Technologies** - Organized skill categories with tags
-5. **Projects** - Showcase of featured projects with descriptions
-6. **Contact** - Contact information and functional contact form
-7. **Footer** - Social media links and copyright information
+1. **Navigation Bar** - Fixed navigation with smooth scrolling to all sections
+2. **Hero Section** - Eye-catching introduction highlighting Rhodmin as a Frontend Developer and UI/UX Designer
+3. **About Me** - Personal introduction about Rhodmin Lou B. Berioso and design philosophy
+4. **Skills & Technologies** - Four categories: Frontend, Design Tools, Development Tools, and Design Expertise
+5. **Projects** - Three featured projects: WMSU HR Connect, City Smiles Dental Clinic, and Present and Ready
+6. **Contact** - Contact information with email, phone, location, and functional contact form
+7. **Footer** - Copyright information and social media links (GitHub, LinkedIn, Facebook, Instagram)
 
 ## 🚀 Quick Start
 
@@ -55,11 +55,11 @@ npx http-server
 
 ```
 portfolio/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles with animations
-├── script.js           # JavaScript for interactivity
-├── README.md          # This file
-└── .gitignore         # Git ignore file
+├── index.html          # Main HTML file with all sections
+├── styles.css          # CSS styles with animations and responsive design
+├── script.js           # JavaScript for interactivity and form validation
+├── README.md           # This file
+└── images/             # Folder containing project images (1.jpg, 2.jpg, etc.)
 ```
 
 ## 🎨 Customization
@@ -76,10 +76,15 @@ Edit the CSS variables in `styles.css`:
 ```
 
 ### Content
-- Update your information in sections
-- Replace project details with your own
-- Update contact information
-- Add your social media links
+- **Hero Section**: Title "Hi, I'm Rhodmin" with subtitle "Frontend Developer | UI/UX Designer | User-Focused Design"
+- **About Section**: Description of Rhodmin Lou B. Berioso as a frontend developer and UX designer
+- **Skills Section**: Organized into 4 categories with relevant skill tags
+- **Projects**: 
+  - WMSU HR Connect - Job hiring and recruitment system
+  - City Smiles Dental Clinic - Professional dental clinic website
+  - Present and Ready - Liveness detection attendance system
+- **Contact**: Email (rhodminlouberioso@gmail.com), Phone (+63 926 312 6144), Location (Zamboanga City, Philippines)
+- **Social Links**: GitHub, LinkedIn, Facebook, and Instagram
 
 ### Animations
 - Modify animation durations in CSS
@@ -133,7 +138,7 @@ Edit the CSS variables in `styles.css`:
 2. Go to repository Settings
 3. Scroll to "GitHub Pages"
 4. Select main branch as source
-5. Your site will be live at `https://yourusername.github.io/portfolio`
+5. Your site will be live at `https://vercel.com/rhody08s-projects/rhodmin-lou-b-berioso`
 
 ### Deploy to Netlify
 1. Connect your GitHub repository
